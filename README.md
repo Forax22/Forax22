@@ -7,6 +7,26 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on **Mobile Development**
+
+- 🌱 I’m currently learning **Learning android development,Python and AI**
+
+- 👯 I’m looking to collaborate on **Clock Bridge**
+
+- 🤝 I’m looking for help with **Android Development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Forax22](https://github.com/Forax22)
+
+- 📝 I regularly write articles on [whattsapp](whattsapp)
+
+- 💬 Ask me about **C++,JavaScript and python and its framework**
+
+- 📫 How to reach me **azeemkhan223223@gmail.com**
+
+- 📄 Know about my experiences [nothing](nothing)
+
+- ⚡ Fun fact **i am play boy**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/azeem khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azeem khan" height="30" width="40" /></a>
