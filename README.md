@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Forax22](https://github.com/Forax22)
 
-- 📝 I regularly write articles on [whattsapp](whattsapp)
+- 📝 I regularly write articles on [Twitter](Twitter)
 
 - 💬 Ask me about **C++,JavaScript and python and its framework**
 
